@@ -1,3 +1,11 @@
 {
-    "python.linting.pylintEnabled": false
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "/usr/local/bin/python3",
+    "editor.fontSize": 16,
+    "editor.wordWrap": "bounded",
+    "files.autoSave": "onFocusChange",
+    "git.ignoreMissingGitWarning": true,
+    "editor.fontWeight": "bold",
+    "terminal.integrated.fontWeight": "bold",
+    "python.formatting.provider": "black"
 }
