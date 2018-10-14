@@ -7,5 +7,6 @@
     "git.ignoreMissingGitWarning": true,
     "editor.fontWeight": "bold",
     "terminal.integrated.fontWeight": "bold",
-    "python.formatting.provider": "black"
+    "python.formatting.provider": "black",
+    "extensions.ignoreRecommendations": true
 }
